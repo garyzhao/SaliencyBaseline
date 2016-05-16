@@ -1,12 +1,13 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-% This code is for [1], and can only be used for non-comercial purpose. If you use our code, please cite [1].
+% This code is for [1], and can only be used for non-comercial purpose. 
+% If you use our code, please cite [1].
 % 
 % Code Author: Long Zhao
 % Email: gary.zhao9012[at]gmail.com
 % Date: 2014/4/5
 %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Run demo.m to learn how to use Saliency Baseline [1], as well as Saliency Optimization [2], Saliency Filter [3], Geodesic Saliency [4], and Manifold Ranking [5].
 
