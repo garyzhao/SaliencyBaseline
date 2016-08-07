@@ -1,15 +1,12 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% This code is for [1], and can only be used for non-comercial purpose. 
-% If you use our code, please cite [1].
-% 
-% Code Author: Long Zhao
-% Email: gary.zhao9012[at]gmail.com
-% Date: 2014/4/5
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Saliency Baseline
 
-Run demo.m to learn how to use Saliency Baseline [1], as well as Saliency Optimization [2], Saliency Filter [3], Geodesic Saliency [4], and Manifold Ranking [5].
+This MATLAB code is for the ACCV 2014 Paper "Size and Location Matter: a New Baseline for Salient Object Detection" [1] and can only be used for non-comercial purpose. If you use our code, please cite our paper [1].
+
+## Usage
+
+Run `demo.m` to learn how to use Saliency Baseline [1], as well as Saliency Optimization [2], Saliency Filter [3], Geodesic Saliency [4], and Manifold Ranking [5].
+
+## Reference Paper
 
 [1] Long Zhao, Shuang Liang, Yichen Wei, and Jinyuan Jia. Size and Location Matter: a New Baseline for Salient Object Detection. In ACCV, 2014.
 
