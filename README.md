@@ -8,7 +8,7 @@ Run `demo.m` to learn how to use Saliency Baseline [1], as well as Saliency Opti
 
 ## Reference Paper
 
-[1] Long Zhao, Shuang Liang, Yichen Wei, and Jinyuan Jia. "Size and Location Matter: a New Baseline for Salient Object Detection". In: _Asian Conference on Computer Vision_ (ACCV), 2014.
+[1] Long Zhao, Shuang Liang, Yichen Wei, and Jinyuan Jia. "[Size and Location Matter: a New Baseline for Salient Object Detection](http://garyzhao.github.io/archieves/2014_accv_saliency.pdf)". In: _Asian Conference on Computer Vision_ (ACCV), 2014.
 
 [2] Wangjiang Zhu, Shuang Liang, Yichen Wei, and Jian Sun. "Saliency Optimization from Robust Background Detection". In: _IEEE Conference on Computer Vision and Pattern Recognition_ (CVPR), 2014.
 
